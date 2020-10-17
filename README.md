@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/7uIeveWk8y' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/7uIeveWk8y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Project 3 - *Twitter*
